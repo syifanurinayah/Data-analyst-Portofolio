@@ -5,4 +5,4 @@ Ketika menjadi seorang programmer saya bertanggung jawab membuat code back end d
 
 Sekarang saya sedang belajar data analyst mandiri karna cukup tertarik di bidang ini, saya belajar mandiri melalui beberapa courses online seperti kaggle serta juga youtube. Saya mengeksplore analysis tools and techniques dan saya selalu mencari kesempatan untuk memperluas pengetahuan dan keterampilan saya
 
-Portofolio saya : Tableau
+Portofolio saya : [Tableau]([url](https://public.tableau.com/app/profile/syifanurinayah/vizzes))
